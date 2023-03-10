@@ -9,4 +9,4 @@
 
 ### Блок-схема алгоритма 
 
-![Схема]( "Схема алгоритма").
+![Схема](https://drive.google.com/file/d/14A8SeHNP6zGO4wt-bLAyqxB6q0MUFhFS/view?usp=sharing "Схема алгоритма").
