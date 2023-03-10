@@ -10,3 +10,4 @@
 ### Блок-схема алгоритма 
 
 ![Схема](https://drive.google.com/file/d/14A8SeHNP6zGO4wt-bLAyqxB6q0MUFhFS/view "Схема алгоритма").
+
